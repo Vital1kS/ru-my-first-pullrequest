@@ -150,6 +150,7 @@ foolin around @ 437i
 Hello from Krd!
 Здесь был Я:)
 Hello from Yasnyi!  
+Hello from Tatarsk
 Greeting from YaM, Moscow!
 Hello from Surgut! :D  
 Hi from Ufa, Mashinistov, 4  
